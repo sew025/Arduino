@@ -1,3 +1,4 @@
+//This code runs on the LilyPad Arduino as it is hooked up to work in my project "MaskWear Technology"
 
 const int xpin = A1;                  // x-axis of the accelerometer
 const int ypin = A2;                  // y-axis
